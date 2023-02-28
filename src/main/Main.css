@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#name {
+  position: absolute;
+  margin-top: 23.5rem;
+  margin-left: 35rem;
+  font-weight: 700;
+}
+#input-name {
+  position: absolute;
+  margin-top: 25rem;
+  margin-left: 35rem;
+  width: 20rem;
+  height: 2rem;
+  box-shadow: 0 0 0.5rem gray inset;
+  border-radius: 0.3rem;
+}
+
+#email{
+    position: absolute;
+    margin-top: 28.4rem;
+    margin-left: 35rem;
+    font-weight: 700;
+  }
+
+#input-email{
+    position: absolute;
+    margin-top: 30rem;
+    margin-left: 35rem;
+    width: 20rem;
+    height: 2rem;
+    box-shadow: 0 0 0.5rem gray inset;
+    border-radius: 0.3rem;
+  }
+#number{
+    position: absolute;
+    margin-top: 33.5rem;
+    margin-left: 35rem;
+    font-weight: 700;
+}
+#input-number{
+    position: absolute;
+    margin-top: 35rem;
+    margin-left: 35rem;
+    width: 20rem;
+    height: 2rem;
+    box-shadow: 0 0 0.5rem gray inset;
+    border-radius: 0.3rem;
+}
+
+#linkedin{
+    position: absolute;
+    margin-top: 38.5rem;
+    margin-left: 35rem;
+    font-weight: 700;
+}
+#linkedin-url{
+    position: absolute;
+    margin-top: 40rem;
+    margin-left: 35rem;
+    width: 20rem;
+    height: 2rem;
+    box-shadow: 0 0 0.5rem gray inset;
+    border-radius: 0.3rem;
+}
+
+#whatsapp{
+    position: absolute;
+    margin-top: 43.5rem;
+    margin-left: 35rem;
+    font-weight: 700;
+}
+#whatsapp-url{
+    position: absolute;
+    margin-top: 45rem;
+    margin-left: 35rem;
+    width: 20rem;
+    height: 2rem;
+    box-shadow: 0 0 0.5rem gray inset;
+    border-radius: 0.3rem;
+}
+
+
+.update-container{
+    position: absolute;
+    background-color:#FFD700;
+    
+    margin-top: 48.5rem;
+    margin-left: 33.5rem;
+    width: 23rem;
+    height: 2.5rem;
+    border-radius: 0.3rem;
+
+}
+#update{
+  position: absolute;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin: 0.2rem 9rem;
+}
